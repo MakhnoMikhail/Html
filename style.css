@@ -1,0 +1,55 @@
+#menu
+{
+	border : 1px solid #000;
+	width : 250px;
+	padding : 5px;
+	float : left;
+	margin-right : 10px;
+}
+
+#content
+{
+	border : 1px solid #000;
+	width : 500px;
+	padding : 5px;
+	min-height : 400px;
+	float : left;
+
+}
+
+
+.sr_input
+{
+	height : 50px;
+	width : 495px;
+	
+}
+#zagolovok
+{
+	text-align : center;
+	
+}
+#content_comments_photo
+{
+	margin : 0% 30%;
+}
+#content_comments
+{
+	
+	margin : 2% 22%;
+
+}
+#contact_photo
+{
+	margin : 0% ;
+	
+}
+#content_contact
+{
+	border : 1px solid #000;
+	width : 770px;
+	padding : 5px;
+	min-height : 300px;
+	float : right;
+}
+
